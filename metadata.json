@@ -1,0 +1,6 @@
+{
+  "name": "ShadowGestures — Invisible Edge Gesture Launcher",
+  "description": "Zero-clutter Android edge gesture launcher featuring an offline 64-point $1 Unistroke Recognizer, 3-sample centroid recorder, live 120Hz overlay simulator, and production Kotlin scaffolding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
